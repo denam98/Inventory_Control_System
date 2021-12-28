@@ -1,0 +1,1 @@
+Standalone Inventory Control System coded in java.
